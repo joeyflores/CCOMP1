@@ -1,2 +1,2 @@
-# CCOMP1
+# CCOMP-1
 Repositorio del curso
